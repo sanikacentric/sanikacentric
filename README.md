@@ -2,11 +2,12 @@
 
 📍 Plainsboro, NJ | 🤖 AI/ML Engineering & Product Lead | 🚀 9+ Years Building Production AI Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanika_Tungare-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanikatungare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanika_Tungare-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanika-tungare-36a055156/).
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanikacentric-FF6B6B?style=flat&logo=googlechrome)](https://2e4laf2jr3xas.ok.kimi.link/)
 [![Email](https://img.shields.io/badge/Email-saisanirose@gmail.com-D14836?style=flat&logo=gmail)](mailto:saisanirose@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-147_repos-181717?style=flat&logo=github)](https://github.com/sanikacentric)
-
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_My_AI_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanikaravindradeshmukh7511)
+[![SanikaGPT](https://img.shields.io/badge/Try_My_AI_Clone-SanikaGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-68881ffba0908191bc79222574958bc3-sanikagpt)
 ---
 
 > **Building production-scale agentic AI systems that eliminate manual work, drive $2M+ ARR, and ship at the speed of thought.**
