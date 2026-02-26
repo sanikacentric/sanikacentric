@@ -159,3 +159,221 @@ SQL | MongoDB | DynamoDB | ETL Pipelines | LangSmith | Grafana | Prometheus | Ai
 ---
 
 *"Ship production AI that solves real problems — everything else is noise."*
+
+
+---
+
+## 🗂️ Repository Index
+
+> All GenAI, Machine Learning, Cloud AI and related repositories — organized by category.
+
+---
+
+### 🤖 Agentic AI & Multi-Agent Systems
+
+#### 🌱 Starter Agents
+- 🤖 [ChatbotwithLangraph](https://github.com/sanikacentric/ChatbotwithLangraph) — Multi-turn chatbot with LangGraph memory and feedback loops
+- 🔄 [Agents_Reflection_Rewoo_ReAct](https://github.com/sanikacentric/Agents_Reflection_Rewoo_ReAct) — ReAct, ReWoo, and Reflection agent patterns
+- 🧩 [AgenticDesign](https://github.com/sanikacentric/AgenticDesign) — Agent design patterns and architectural blueprints
+- 🤖 [AI_Agent_Types](https://github.com/sanikacentric/AI_Agent_Types) — Overview of AI agent types and frameworks
+- 🧠 [AI_Agentic_RAG](https://github.com/sanikacentric/AI_Agentic_RAG) — Agentic RAG with LangChain and vector databases
+- 🛒 [ShoppingCart_Voice_enabled_agents](https://github.com/sanikacentric/ShoppingCart_Voice_enabled_agents) — Voice-first agentic shopping cart
+- 🌡️ [Agentic_AI_Smart_Thermostat](https://github.com/sanikacentric/Agentic_AI_Smart_Thermostat) — IoT + AI agent for smart thermostat control
+- 🛤️ [AI_Agentic_Roadmap](https://github.com/sanikacentric/AI_Agentic_Roadmap) — Agentic AI learning roadmap and architecture
+- 🧬 [OpenAI_Agent](https://github.com/sanikacentric/OpenAI_Agent) — OpenAI Agents SDK with tool-use and function calling
+- 🔁 [human_in_loop_agent](https://github.com/sanikacentric/human_in_loop_agent) — Human-in-the-loop agent workflows
+- 🔐 [AutoDefenseReflex](https://github.com/sanikacentric/AutoDefenseReflex) — Autonomous defense and reflex agent system
+
+#### 🚀 Advanced Agents
+- 🕸️ [A2A_UCP_MultiBrand_MultiAgentic_Project](https://github.com/sanikacentric/A2A_UCP_MultiBrand_MultiAgentic_Project) — A2A protocol, UCP distributed multi-agent infrastructure
+- 🧬 [Multiagentic_Orchestration](https://github.com/sanikacentric/Multiagentic_Orchestration) — Multi-agent orchestration patterns and workflows
+- 🤝 [AgenticAI_Microservices](https://github.com/sanikacentric/AgenticAI_Microservices) — Agentic AI deployed as microservices
+- 🔗 [Agent2AgentProtocol_MCP_servers](https://github.com/sanikacentric/Agent2AgentProtocol_MCP_servers) — A2A Protocol with MCP server integration
+- 🛡️ [AgentKit_OpenAI_CyberSecurity](https://github.com/sanikacentric/AgentKit_OpenAI_CyberSecurity) — OpenAI AgentKit for cybersecurity automation
+- 🔒 [AI_Agentic_Security_Logs](https://github.com/sanikacentric/AI_Agentic_Security_Logs) — Agentic AI for security log analysis
+- 🧠 [LLM_RAG_AI_Agentic_Autogen](https://github.com/sanikacentric/LLM_RAG_AI_Agentic_Autogen) — LLM + RAG + AutoGen multi-agent framework
+- 📈 [customer_behavior_trend_detector_agentic_framework](https://github.com/sanikacentric/customer_behavior_trend_detector_agentic_framework) — Agentic trend detection for customer behavior
+- 🧵 [Model_Context_Protocol](https://github.com/sanikacentric/Model_Context_Protocol) — MCP server implementation and patterns
+- 🏗️ [cascadeprojects](https://github.com/sanikacentric/cascadeprojects) — Cascade AI agentic project templates
+
+---
+
+### 🧠 Generative AI — LLMs & RAG
+
+#### 📚 RAG Pipelines
+- 🔍 [Multi_RAG_AI_Agents_LangGraph](https://github.com/sanikacentric/Multi_RAG_AI_Agents_LangGraph) — Multi-agent RAG with LangGraph orchestration
+- 🗂️ [AgenticRAG](https://github.com/sanikacentric/AgenticRAG) — Agentic RAG with dynamic retrieval routing
+- 📄 [traditionalRAG_AgenticRAG](https://github.com/sanikacentric/traditionalRAG_AgenticRAG) — Traditional RAG vs Agentic RAG comparison
+- 📊 [RAG_diff_types](https://github.com/sanikacentric/RAG_diff_types) — Survey of RAG types: naive, advanced, modular
+- 🔗 [GraphRAGVector_And_Agents](https://github.com/sanikacentric/GraphRAGVector_And_Agents) — GraphRAG combining vector and graph search
+- 📈 [Graph_RAG](https://github.com/sanikacentric/Graph_RAG) — Knowledge graph-powered RAG
+- 🔁 [EnhancedLazyGraphRAG](https://github.com/sanikacentric/EnhancedLazyGraphRAG) — Enhanced LazyGraphRAG implementation
+- 🌿 [LazyGraphRAG](https://github.com/sanikacentric/LazyGraphRAG) — Lazy evaluation GraphRAG for efficiency
+- 📧 [Gmail_Memory_RAG](https://github.com/sanikacentric/Gmail_Memory_RAG) — Gmail-powered memory RAG pipeline
+- 🔬 [KlashApp_SwiftCode_AgenticRAG](https://github.com/sanikacentric/KlashApp_SwiftCode_AgenticRAG) — Swift code agentic RAG
+- 📝 [RAG_ResearchPaper_Generation](https://github.com/sanikacentric/RAG_ResearchPaper_Generation) — RAG for research paper generation
+- 🖼️ [ImageRAG](https://github.com/sanikacentric/ImageRAG) — Multimodal image RAG pipeline
+- 🖇️ [MultiModal_RAG](https://github.com/sanikacentric/MultiModal_RAG) — Multimodal RAG with text and images
+- 🔩 [pdf_GCS_DAG_Pub_sub_chatbotAI](https://github.com/sanikacentric/pdf_GCS_DAG_Pub_sub_chatbotAI) — PDF RAG with GCS, DAG, and Pub/Sub
+- 🧑‍💻 [GCP_RAG_Pipeline](https://github.com/sanikacentric/GCP_RAG_Pipeline) — Production RAG pipeline on GCP
+- 🔥 [RAG_groq](https://github.com/sanikacentric/RAG_groq) — Ultra-fast RAG using Groq inference
+- ✂️ [textsplitter](https://github.com/sanikacentric/textsplitter) — Text splitting strategies for RAG chunking
+- 🗃️ [contextEnggineering](https://github.com/sanikacentric/contextEnggineering) — Context engineering for LLM pipelines
+
+#### 🔗 LangChain & LangGraph
+- ⛓️ [langchain](https://github.com/sanikacentric/langchain) — LangChain fundamentals and chain patterns
+- 💬 [LangChainConversationalRAG](https://github.com/sanikacentric/LangChainConversationalRAG) — Conversational RAG with LangChain memory
+- 📜 [LangChain_ChatHistory](https://github.com/sanikacentric/LangChain_ChatHistory) — Chat history management in LangChain
+- 🏗️ [Building_Smart_Chains_LangChain](https://github.com/sanikacentric/Building_Smart_Chains_LangChain) — Building production LangChain pipelines
+- 🔗 [Graphs_LangChain_Neo4j_Groq_LLM](https://github.com/sanikacentric/Graphs_LangChain_Neo4j_Groq_LLM) — LangChain + Neo4j + Groq knowledge graphs
+- 🔁 [langraph_agents_memory](https://github.com/sanikacentric/langraph_agents_memory) — LangGraph agents with persistent memory
+- 🔬 [Agent-LanggraphStudio-Bedrock-claude](https://github.com/sanikacentric/Agent-LanggraphStudio-Bedrock-claude) — LangGraph Studio with AWS Bedrock and Claude
+- ♻️ [AI_Agentic_RAG](https://github.com/sanikacentric/AI_Agentic_RAG) — Agentic RAG orchestrated via LangGraph
+
+#### 🤗 LLMs & Prompt Engineering
+- 💡 [PromptEngineering](https://github.com/sanikacentric/PromptEngineering) — Prompt engineering patterns, few-shot, chain-of-thought
+- 📦 [types_LLM](https://github.com/sanikacentric/types_LLM) — Survey of LLM types: open-source vs commercial
+- 🛠️ [AI_Inferencing_samples](https://github.com/sanikacentric/AI_Inferencing_samples) — LLM inference patterns and API samples
+- 🔄 [ml_api_integration](https://github.com/sanikacentric/ml_api_integration) — ML model API integration patterns
+- 🔃 [transformer](https://github.com/sanikacentric/transformer) — Transformer architecture from scratch
+- 🤖 [OpenAI_Gemini_HuggingFace_DeepSeek_langchain](https://github.com/sanikacentric/OpenAI_Gemini_HuggingFace_DeepSeek_langchain) — Multi-LLM comparison: OpenAI, Gemini, HuggingFace, DeepSeek
+- 🧩 [Small_Language_Model_SLM](https://github.com/sanikacentric/Small_Language_Model_SLM) — Small Language Models for edge deployment
+- 🔁 [DeepSeek-R1_Langchain_Ollama](https://github.com/sanikacentric/DeepSeek-R1_Langchain_Ollama) — DeepSeek-R1 with LangChain and Ollama
+- 🧠 [recurrent_memory_model](https://github.com/sanikacentric/recurrent_memory_model) — Recurrent memory models for LLMs
+- 💾 [SimpleMemLite](https://github.com/sanikacentric/SimpleMemLite) — Lightweight memory module for LLM agents
+- 🏄 [KlashApp_OpenAI_PrivacyFirstDesign](https://github.com/sanikacentric/KlashApp_OpenAI_PrivacyFirstDesign) — Privacy-first OpenAI app design
+- 🤖 [tracecontext](https://github.com/sanikacentric/tracecontext) — Trace context for LLM observability
+- 📱 [troubleshooting_latency_GenAI](https://github.com/sanikacentric/troubleshooting_latency_GenAI) — Debugging latency in GenAI systems
+- 🛑 [GenAI_Inference_fault_tolerance_](https://github.com/sanikacentric/GenAI_Inference_fault_tolerance_) — Fault-tolerant GenAI inference patterns
+
+#### 🔩 Fine-Tuning
+- 🎯 [finetuning](https://github.com/sanikacentric/finetuning) — LLM fine-tuning: LoRA, QLoRA patterns
+- 🧬 [FineTunningModel](https://github.com/sanikacentric/FineTunningModel) — Fine-tuning models with HuggingFace Transformers
+- 🦾 [grpo-gemma2-2b-Tunix](https://github.com/sanikacentric/grpo-gemma2-2b-Tunix) — GRPO fine-tuning of Gemma 2B with Tunix
+- 🔁 [tunicsFinal](https://github.com/sanikacentric/tunicsFinal) — Tunics fine-tuning final pipeline
+- 💬 [GPT-2-deployment](https://github.com/sanikacentric/GPT-2-deployment) — GPT-2 fine-tuning and deployment pipeline
+
+#### 🗄️ Vector Databases & Embeddings
+- 📐 [vectordatabases](https://github.com/sanikacentric/vectordatabases) — FAISS, Pinecone, Weaviate, ChromaDB overview
+- 🗂️ [Vector_Database](https://github.com/sanikacentric/Vector_Database) — Vector database implementation and benchmarks
+- ⚡ [faiss-chroma_pinecone](https://github.com/sanikacentric/faiss-chroma_pinecone) — Comparison: FAISS vs ChromaDB vs Pinecone
+
+---
+
+### 🌩️ Google Cloud AI — Vertex AI & GCP
+
+- 🧠 [GEN_AI_data_governance_google_cloud](https://github.com/sanikacentric/GEN_AI_data_governance_google_cloud) — GenAI data governance on Google Cloud
+- 🏗️ [GCP-_ProductionGrade-Deployments](https://github.com/sanikacentric/GCP-_ProductionGrade-Deployments) — Production-grade ML deployments on GCP
+- 🔁 [google_adk_multiagent](https://github.com/sanikacentric/google_adk_multiagent) — Google ADK multi-agent systems
+- 📊 [GenAI_model_eval](https://github.com/sanikacentric/GenAI_model_eval) — GenAI model evaluation on Vertex AI
+- 🏆 [KAGGLE--ADK-CAPSTONE--A2A-MCP-Multiagent](https://github.com/sanikacentric/KAGGLE--ADK-CAPSTONE--A2A-MCP-Multiagent) — Kaggle ADK Capstone: A2A + MCP multi-agent
+- 📺 [YouTube-Sentiment-Insights](https://github.com/sanikacentric/YouTube-Sentiment-Insights) — YouTube sentiment analysis with Vertex AI
+- 📡 [strand_agent](https://github.com/sanikacentric/strand_agent) — Strand agent on Google Cloud
+
+---
+
+### 💠 Gemini 2.5 & Google AI Studio
+
+- ✨ [gemini_fullstack_langraph_agent](https://github.com/sanikacentric/gemini_fullstack_langraph_agent) — Full-stack Gemini agent with LangGraph
+- 🤖 [Gemini_openAI](https://github.com/sanikacentric/Gemini_openAI) — Gemini vs OpenAI API comparison
+- 🌐 [GeminiMessengerPro](https://github.com/sanikacentric/GeminiMessengerPro) — Interactive Gemini chat messenger
+- 📝 [Gemin_Live_Article-writer](https://github.com/sanikacentric/Gemin_Live_Article-writer) — Gemini Live 2.5 Flash article writer
+- 🎓 [Spark_gemini_flash](https://github.com/sanikacentric/Spark_gemini_flash) — Spark app powered by Gemini Flash
+- 🩺 [dermscreener_AI--MedGemma-Google---Kaggle](https://github.com/sanikacentric/dermscreener_AI--MedGemma-Google---Kaggle) — Dermatology screener with MedGemma
+- 🎬 [CodeCinema](https://github.com/sanikacentric/CodeCinema) — Developer efficiency tool using Gemini AI
+- 🔁 [multimodal_1](https://github.com/sanikacentric/multimodal_1) — Multimodal AI with Gemini Vision
+- 🔥 [grpo-gemma2-2b-Tunix](https://github.com/sanikacentric/grpo-gemma2-2b-Tunix) — GRPO fine-tuning Gemma 2B
+
+---
+
+### 🎤 Voice AI Agents
+
+- 🎙️ [voice_enabled_assistant](https://github.com/sanikacentric/voice_enabled_assistant) — Real-time voice assistant with STT + TTS
+- 🛒 [ShoppingCart_Voice_enabled_agents](https://github.com/sanikacentric/ShoppingCart_Voice_enabled_agents) — Voice-enabled shopping cart agent
+- 🎧 [ResearchAgent_VoiceAI_Agent_Gemini](https://github.com/sanikacentric/ResearchAgent_VoiceAI_Agent_Gemini) — Voice AI research agent powered by Gemini
+- 📝 [Gemin_Live_Article-writer](https://github.com/sanikacentric/Gemin_Live_Article-writer) — Live audio article writer with Gemini 2.5 Flash
+
+---
+
+### ☁️ AWS Cloud AI — Bedrock, SageMaker, Lambda
+
+- 🔷 [AmazonBedrockAgentCore_AgentStrands](https://github.com/sanikacentric/AmazonBedrockAgentCore_AgentStrands) — Amazon Bedrock AgentCore + Agent Strands
+- ⚙️ [AWS_Bedrock_Lambda_CloudWatch](https://github.com/sanikacentric/AWS_Bedrock_Lambda_CloudWatch) — AWS Bedrock with Lambda and CloudWatch
+- 🧪 [AWS_SageMaker](https://github.com/sanikacentric/AWS_SageMaker) — SageMaker training, tuning, and deployment
+- 🤖 [LLM_Agents-AmazonBedrock](https://github.com/sanikacentric/LLM_Agents-AmazonBedrock) — LLM agents on Amazon Bedrock
+- 🔄 [Agent-LanggraphStudio-Bedrock-claude](https://github.com/sanikacentric/Agent-LanggraphStudio-Bedrock-claude) — LangGraph Studio + Bedrock + Claude
+- 🔒 [AI_boto3_AWS_Lambda_cloudwatch](https://github.com/sanikacentric/AI_boto3_AWS_Lambda_cloudwatch) — AI with Boto3, Lambda, and CloudWatch
+- 🚀 [End-to-End-AI-Project-AWS_Deployment](https://github.com/sanikacentric/End-to-End-AI-Project-AWS_Deployment) — End-to-end AI project on AWS
+- 🌐 [OpenAI_FastAPI_Integration](https://github.com/sanikacentric/OpenAI_FastAPI_Integration) — OpenAI + FastAPI production integration
+
+---
+
+### 🏆 Kaggle Competitions & Notebooks
+
+- 🥇 [KAGGLE--ADK-CAPSTONE--A2A-MCP-Multiagent](https://github.com/sanikacentric/KAGGLE--ADK-CAPSTONE--A2A-MCP-Multiagent) — Kaggle ADK Capstone: A2A + MCP multi-agent system
+- 🩺 [dermscreener_AI--MedGemma-Google---Kaggle](https://github.com/sanikacentric/dermscreener_AI--MedGemma-Google---Kaggle) — Kaggle: DermScreener with MedGemma on Google Cloud
+- 🔁 [grpo-gemma2-2b-Tunix](https://github.com/sanikacentric/grpo-gemma2-2b-Tunix) — Kaggle: GRPO fine-tuning Gemma 2B with Tunix
+- 🎬 [tunicsFinal](https://github.com/sanikacentric/tunicsFinal) — Kaggle: Final Tunics model fine-tuning notebook
+
+---
+
+### 🤖 Machine Learning — Core Algorithms
+
+#### 📐 Supervised Learning
+- 📏 [linearRegression_ML_Algo](https://github.com/sanikacentric/linearRegression_ML_Algo) — Linear Regression from scratch
+- 📉 [ML_linear_Regression](https://github.com/sanikacentric/ML_linear_Regression) — Linear Regression with scikit-learn
+- 📊 [ML_Supervised_LinearRegression](https://github.com/sanikacentric/ML_Supervised_LinearRegression) — Supervised learning with linear regression
+- 🔲 [ML_Ridge_Lasso_Algo](https://github.com/sanikacentric/ML_Ridge_Lasso_Algo) — Ridge and Lasso regularization
+- 🌳 [ML_randomforest_classifier](https://github.com/sanikacentric/ML_randomforest_classifier) — Random Forest classifier implementation
+- 📉 [logistic_regression](https://github.com/sanikacentric/logistic_regression) — Logistic Regression for binary classification
+- 🧮 [Confusion_Matrix](https://github.com/sanikacentric/Confusion_Matrix) — Model evaluation with Confusion Matrix metrics
+- 🔵 [knn_mL_algo](https://github.com/sanikacentric/knn_mL_algo) — K-Nearest Neighbors algorithm
+- 🌀 [kmeans_machinelearning](https://github.com/sanikacentric/kmeans_machinelearning) — K-Means clustering implementation
+- 🤖 [machinelearning](https://github.com/sanikacentric/machinelearning) — ML fundamentals and algorithm collection
+- 🧩 [multi_model_ML_framework](https://github.com/sanikacentric/multi_model_ML_framework) — Multi-model ML evaluation framework
+
+#### 🧠 Neural Networks & Deep Learning
+- 🔮 [neural_network_1](https://github.com/sanikacentric/neural_network_1) — Neural network fundamentals from scratch
+- 🔢 [complexNeuralNetwork_train_test_split_data](https://github.com/sanikacentric/complexNeuralNetwork_train_test_split_data) — Complex neural network with train/test split
+- 🔁 [Basics-ML-NeuralNetwork-Reinforcement](https://github.com/sanikacentric/Basics-ML-NeuralNetwork-Reinforcement) — ML basics: neural networks + reinforcement learning
+- 🔥 [pytorch](https://github.com/sanikacentric/pytorch) — PyTorch deep learning fundamentals
+- 📦 [DataSet_DataLoader](https://github.com/sanikacentric/DataSet_DataLoader) — PyTorch Dataset and DataLoader patterns
+
+#### 🔁 Reinforcement Learning
+- 🎮 [ReinforcementLearning](https://github.com/sanikacentric/ReinforcementLearning) — Reinforcement learning fundamentals and Q-learning
+
+#### 🔧 MLOps & Deployment
+- ⚙️ [mlops](https://github.com/sanikacentric/mlops) — MLOps pipelines: CI/CD, versioning, monitoring
+- 🚨 [MLOPs_email_phishing](https://github.com/sanikacentric/MLOPs_email_phishing) — MLOps for email phishing detection model
+- 🔁 [MLFlow](https://github.com/sanikacentric/MLFlow) — MLflow experiment tracking and model registry
+
+---
+
+### 🐍 Python — Algorithms & Data Structures
+
+- 🔢 [python_data_structures](https://github.com/sanikacentric/python_data_structures) — Python data structures: stacks, queues, trees, graphs
+- 🔄 [twosum.py](https://github.com/sanikacentric/twosum.py) — Two Sum (LeetCode)
+- 🔢 [threesum.py](https://github.com/sanikacentric/threesum.py) — Three Sum (LeetCode)
+- 🌲 [balancedbinarytree.py](https://github.com/sanikacentric/balancedbinarytree.py) — Balanced Binary Tree check
+- 🌲 [balanced_binarytree_dfs](https://github.com/sanikacentric/balanced_binarytree_dfs) — Balanced Binary Tree with DFS
+- 🌲 [daimeterbinarytree](https://github.com/sanikacentric/daimeterbinarytree) — Diameter of Binary Tree
+- 🔁 [invertedbinarytree](https://github.com/sanikacentric/invertedbinarytree) — Invert Binary Tree
+- 🔍 [binarsearch](https://github.com/sanikacentric/binarsearch) — Binary Search implementation
+- 📋 [groupanagrams](https://github.com/sanikacentric/groupanagrams) — Group Anagrams (LeetCode)
+- 🔤 [isAnagram](https://github.com/sanikacentric/isAnagram) — Is Anagram check
+- 📝 [dataStructure_isAnagram](https://github.com/sanikacentric/dataStructure_isAnagram) — Anagram with hash map data structures
+- 🔁 [containsduplicate](https://github.com/sanikacentric/containsduplicate) — Contains Duplicate
+- 📋 [data_structure_containsDuplicate](https://github.com/sanikacentric/data_structure_containsDuplicate) — Contains Duplicate with data structures
+- 🔤 [encodedecode](https://github.com/sanikacentric/encodedecode) — Encode and Decode strings
+- 💧 [containswater](https://github.com/sanikacentric/containswater) — Container With Most Water
+- 🏠 [houserobbers](https://github.com/sanikacentric/houserobbers) — House Robber dynamic programming
+- 🪜 [climbingstairs](https://github.com/sanikacentric/climbingstairs) — Climbing Stairs dynamic programming
+- 📈 [buyandsellstock](https://github.com/sanikacentric/buyandsellstock) — Best Time to Buy and Sell Stock
+- 🧬 [clonegraph](https://github.com/sanikacentric/clonegraph) — Clone Graph (BFS/DFS)
+- 🔑 [k_closest_point_origin](https://github.com/sanikacentric/k_closest_point_origin) — K Closest Points to Origin (heap)
+- 🔤 [lengthoflongestsubstring](https://github.com/sanikacentric/lengthoflongestsubstring) — Longest Substring Without Repeating Chars
+- 🔢 [duplicates](https://github.com/sanikacentric/duplicates) — Find Duplicates in array
+- 🐍 [python_boolean_list](https://github.com/sanikacentric/python_boolean_list) — Python boolean and list operations
+- 🔄 [python_project_conversion_units](https://github.com/sanikacentric/python_project_conversion_units) — Unit conversion project in Python
+
+---
