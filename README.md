@@ -23,13 +23,13 @@ I run tracecontext-ai [![Open Source](https://img.shields.io/badge/Open_Source-t
 ### 🧠 What I Work On
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AI Agents — single-agent, multi-agent, MCP-based, voice, and browser agents
-Production RAG — simple chains → agentic RAG → hybrid search → local RAG
-Multi-agent orchestration with LangChain, LangGraph, AutoGen, and CrewAI
-LLM platforms on AWS Bedrock, GCP Vertex AI, and Azure
-Chat-with-anything apps — GitHub, Gmail, PDFs, invoices, research papers
-Fine-tuning — LoRA, QLoRA on Gemma, Llama, and other OSS models
-Developer tooling — observability, eval frameworks, CI/CD for AI systems
+- AI Agents (single-agent → multi-agent → MCP-based → voice/browser agents)
+- Production RAG (chains → agentic RAG → hybrid search → local RAG)
+- Multi-Agent Orchestration (LangChain · LangGraph · AutoGen · CrewAI)
+- Enterprise LLM Platforms (AWS Bedrock · Vertex AI · Azure OpenAI)
+- Chat-with-Anything Systems (GitHub  · PDFs · invoices · research)
+- Fine-Tuning (LoRA / QLoRA on Gemma, Llama & OSS models)
+- AI Developer Tooling (observability · evaluation · CI/CD)
 
 I've also spoken at conferences, published 25+ technical tutorials reaching 50K+ developers, and run workshops teaching prompt engineering and agent development to engineers at all levels.
 
