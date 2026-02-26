@@ -19,7 +19,9 @@ I created Crocy — a Chrome extension powered by OpenAI [![ChromeExtension](htt
 
 I run tracecontext-ai [![Open Source](https://img.shields.io/badge/Open_Source-tracecontext--ai-181717?style=flat&logo=github)](https://github.com/tracecontext-ai) , my open-source org where I drop agent templates, TraceContext is a persistent AI coding context platform. It solves the #1 broken experience in AI-assisted development: every time a session ends, the AI loses all memory — forcing developers to re-explain their architecture, past decisions, and failed approaches every single session.
 
-****What I work on ****
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🧠 What I Work On
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 AI Agents — single-agent, multi-agent, MCP-based, voice, and browser agents
 Production RAG — simple chains → agentic RAG → hybrid search → local RAG
