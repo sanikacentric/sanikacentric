@@ -3,7 +3,7 @@
 📍 Plainsboro, NJ | 🤖 AI/ML Engineering & Product Lead | 🚀 9+ Years Building Production AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanika_Tungare-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanikatungare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanikacentric-FF6B6B?style=flat&logo=googlechrome)](https://sanikacentric.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanikacentric-FF6B6B?style=flat&logo=googlechrome)](https://2e4laf2jr3xas.ok.kimi.link/)
 [![Email](https://img.shields.io/badge/Email-saisanirose@gmail.com-D14836?style=flat&logo=gmail)](mailto:saisanirose@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-147_repos-181717?style=flat&logo=github)](https://github.com/sanikacentric)
 
@@ -12,6 +12,23 @@
 > **Building production-scale agentic AI systems that eliminate manual work, drive $2M+ ARR, and ship at the speed of thought.**
 
 Deep in agentic AI — architecting multi-agent pipelines, RAG systems, and LLM platforms that actually work in production. After 9+ years shipping enterprise software at Corcentric, AI has gone from experiment to core product. I build the things I wish existed.
+
+I'm an AI/ML Engineering and Product Lead with 9+ years architecting production-scale agentic systems — from LangGraph cybersecurity pipelines processing 100K+ daily events to enterprise RAG systems serving 500+ users across 50K+ documents.
+
+I created Crocy — a Chrome extension powered by OpenAI that acts as your every-page AI assistant, bringing context-aware intelligence right into your browser without switching tabs.
+I run tracecontext-ai, my open-source org where I drop agent templates, starter kits, and real working demos so devs can skip the boilerplate and start building.
+
+**What I work on **
+
+AI Agents — single-agent, multi-agent, MCP-based, voice, and browser agents
+Production RAG — simple chains → agentic RAG → hybrid search → local RAG
+Multi-agent orchestration with LangChain, LangGraph, AutoGen, and CrewAI
+LLM platforms on AWS Bedrock, GCP Vertex AI, and Azure
+Chat-with-anything apps — GitHub, Gmail, PDFs, invoices, research papers
+Fine-tuning — LoRA, QLoRA on Gemma, Llama, and other OSS models
+Developer tooling — observability, eval frameworks, CI/CD for AI systems
+
+I've also spoken at conferences, published 25+ technical tutorials reaching 50K+ developers, and run workshops teaching prompt engineering and agent development to engineers at all levels.
 
 ---
 
@@ -153,7 +170,7 @@ SQL | MongoDB | DynamoDB | ETL Pipelines | LangSmith | Grafana | Prometheus | Ai
 ## 📬 Connect
 
 - LinkedIn: https://linkedin.com/in/sanikatungare
-- Portfolio: https://sanikacentric.github.io
+- Portfolio: https://2e4laf2jr3xas.ok.kimi.link/
 - Email: saisanirose@gmail.com
 
 ---
