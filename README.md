@@ -1,4 +1,4 @@
-# Hi, I'm Sanika Tungare 👋
+# Hi, I'm Sanika  👋
 
 📍 Plainsboro, NJ | 🤖 AI/ML Engineering & Product Lead | 🚀 9+ Years Building Production AI Systems
 
