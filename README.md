@@ -15,10 +15,11 @@ Deep in agentic AI — architecting multi-agent pipelines, RAG systems, and LLM 
 
 I'm an AI/ML Engineering and Product Lead with 9+ years architecting production-scale agentic systems — from LangGraph cybersecurity pipelines processing 100K+ daily events to enterprise RAG systems serving 500+ users across 50K+ documents.
 
-I created Crocy — a Chrome extension powered by OpenAI that acts as your every-page AI assistant, bringing context-aware intelligence right into your browser without switching tabs.
-I run tracecontext-ai, my open-source org where I drop agent templates, starter kits, and real working demos so devs can skip the boilerplate and start building.
+I created Crocy — a Chrome extension powered by OpenAI [![Crocy ChromeExtension](https://img.shields.io/badge/ChromeExtension-Crocy-GPT--4o--Mini-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/sanikacentric/crocy---ChromeExtension--powered-by-gpt-4o-mini) that acts as your every-page AI assistant, bringing context-aware intelligence right into your browser without switching tabs.
 
-**What I work on **
+I run tracecontext-ai-[![Open Source](https://img.shields.io/badge/Open_Source-tracecontext--ai-181717?style=flat&logo=github)](https://github.com/tracecontext-ai) , my open-source org where I drop agent templates, TraceContext is a persistent AI coding context platform. It solves the #1 broken experience in AI-assisted development: every time a session ends, the AI loses all memory — forcing developers to re-explain their architecture, past decisions, and failed approaches every single session.
+
+****What I work on ****
 
 AI Agents — single-agent, multi-agent, MCP-based, voice, and browser agents
 Production RAG — simple chains → agentic RAG → hybrid search → local RAG
