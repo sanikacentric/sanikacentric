@@ -3,7 +3,7 @@
 📍 Plainsboro, NJ | 🤖 AI/ML Engineering & Product Lead | 🚀 9+ Years Building Production AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanika_Tungare-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanika-tungare-36a055156/).
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanikacentric-FF6B6B?style=flat&logo=googlechrome)](https://2e4laf2jr3xas.ok.kimi.link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanikacentric-FF6B6B?style=flat&logo=googlechrome)](https://www.sanika-ai.com/)
 [![Email](https://img.shields.io/badge/Email-saisanirose@gmail.com-D14836?style=flat&logo=gmail)](mailto:saisanirose@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-147_repos-181717?style=flat&logo=github)](https://github.com/sanikacentric)
 [![YouTube](https://img.shields.io/badge/YouTube-AI_Videos-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@sanikaravindradeshmukh7511)
